@@ -27,4 +27,4 @@ THEN the saved events persist
 
 Here is an image of the application: ![Application Image](https://github.com/GetOffMyFarm/Calendar-Application/blob/main/assets/images/Capture.PNG)
 
-Link to launched version of the application: https://getoffmyfarm.github.io/Calendar-Application/
+Link to launched version of the application: https://gitoffmyfarm.github.io/Calendar-Application/
